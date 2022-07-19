@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Chileiptv" logo="http://chileiptv.cl/img/logos/file_1487370992.png", RETRO PLUS SEÑAL 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Chileiptv" logo="http://chileiptv.cl/img/logos/sinlogo.png", CINE ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=1754b5a5-04c8-455a-ab92-738a70250587&deviceLat=-22.4676&deviceLon=-68.9335&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=78.0&includeExtendedEvents=false&marketingRegion=VE&sid=c9b78fd3-5241-4165-ba6a-0953815a68c6&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1", CINE ESTELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=97231946-a787-4841-bd04-9e3b59f3fc84&deviceLat=-22.4676&deviceLon=-68.9335&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=78.0&includeExtendedEvents=false&marketingRegion=VE&sid=9e98612a-e030-456f-9b04-052da3f249d1&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://i.imgur.com/83ihLPe.png", ESTRELLAS DE ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=97231946-a787-4841-bd04-9e3b59f3fc84&deviceLat=-22.4676&deviceLon=-68.9335&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=78.0&includeExtendedEvents=false&marketingRegion=VE&sid=77ab15a8-0bd6-4d2f-8733-4b86ab45cdbd&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1", CINE SUSPENSO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=97231946-a787-4841-bd04-9e3b59f3fc84&deviceLat=-22.4676&deviceLon=-68.9335&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=78.0&includeExtendedEvents=false&marketingRegion=VE&sid=303ba9e2-b14f-4e02-b851-8403b469958c&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="2533", RT ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1708" group="Chileiptv" logo="http://chileiptv.cl/img/logos/file_1521991232.png", CANAL EXTREMADURA
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1324" group="Chileiptv" logo="http://chileiptv.cl/img/logos/sinlogo.png", TELE MADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Chileiptv" logo="http://chileiptv.cl/img/logos/sinlogo.png", 24h RTVE (ES)
+https://www.youtube.com/watch?v=xR-4NDFsYNk
+#EXTINF:0 type="stream" channelId="-1", CANAL PELEAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=97231946-a787-4841-bd04-9e3b59f3fc84&deviceLat=-22.4676&deviceLon=-68.9335&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=78.0&includeExtendedEvents=false&marketingRegion=VE&sid=eced2f3f-5a17-49ea-ac22-e627dc9f36c0&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REPUBLIC" logo="https://i.imgur.com/Sbv9mq5.png", MICROVISION  10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REPUBLIC" logo="https://i.imgur.com/iE1xhA5.png", TELENORD  10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REPUBLIC" logo="https://i.imgur.com/iE1xhA5.png", TELENORD  8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REPUBLIC" logo="https://i.imgur.com/iE1xhA5.png", TELENORD  12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REPUBLIC" logo="https://i.imgur.com/CcGzKEz.png", VALLEVISION  TV
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DOMINICAN REPUBLIC" logo="https://i.imgur.com/fmKPokt.png", TVS CANAL 22
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2663", TELESUR
+https://iptvcat.com/my_list/s/b4f6d241f98251ae2984e6fafff26c22.m3u8
+#EXTINF:0 type="stream" channelId="-1", TELECENTRO 13
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+#EXTINF:0 type="stream" channelId="1389", GOLF CHANNEL
+http://1tv1.net:8080/omnia2021/123456/148493?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1", GOLF NETWORK
+http://203.162.235.41:16924
+#EXTINF:0 type="stream" channelId="-1", ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 type="stream" channelId="736", CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CGTN ESPAÑOL 2
+https://list.iptvcat.com/my_list/s/80bcb925c35a4d707706ec60f67e419d.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESTACION TV
+https://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", RTP BOLIVIA
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" size="Small", VID. CHISTOSOS 2
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", VID. CHISTOSOS 3
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4441&deviceId=554158e864526b29254ff105&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="stream" channelId="-1", CLICK TV
+http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", COLOSAL TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2555", SOL TV
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", TV DEL ESTE
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1", TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2546", CINE AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", EXPRESION TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", LRP TELEVISION
+https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", NORTEVISION
+https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8?PlaylistM3UCL
